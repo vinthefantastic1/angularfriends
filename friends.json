@@ -1,0 +1,5 @@
+[
+  {"name": "Bill", "age": 46, "isSpecial": true},
+  {"name": "Russ", "age": 47, "isSpecial": true},
+  {"name": "The Rock", "age": 41, "isSpecial": false}
+]
